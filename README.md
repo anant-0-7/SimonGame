@@ -1,5 +1,5 @@
 # SimonGame
-### You can play the game at anant-0-7.github.io/SimonGame
+### You can play the game at [anant-0-7.github.io/SimonGame](https://anant-0-7.github.io/SimonGame)
 
 This game works in the following way:
 
